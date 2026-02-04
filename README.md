@@ -1,5 +1,5 @@
-## Hi there 👋
-Je suis Noémie Lignier, développeuse front end. Actuellement, je suis apprentie analyste programmeuse chez POLYEDRE, une entreprise de gestion d'ERP. Etant en dernière année de BUT informatique (bac+3) j'ai eu l'opportunité de travailler sur différents types de projets et de découvrir différents langages, frameworks.  
+## Hello
+Je m'apelle Noémie et je suis développeuse front end. Actuellement, je suis apprentie analyste programmeuse chez POLYEDRE, une entreprise de gestion d'ERP. Etant en dernière année de BUT informatique (bac+3) j'ai eu l'opportunité de travailler sur différents types de projets et de découvrir différents langages, frameworks.  
 
 ## Github 
 <img src="https://raw.githubusercontent.com/nomimie16/github-stats-transparent/output/generated/overview.svg" />
