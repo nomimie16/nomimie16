@@ -13,8 +13,8 @@ Je m'apelle Noémie et je suis **étudiante** en BUT informatique et **développ
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) React Native | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)  | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | 
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Typescript](https://img.shields.io/badge/Typescript-38B2AC?style=flat&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-3498EB?style=flat&logo=docker&logoColor=white) | | | |
-|[Java](https://img.shields.io/badge/Java-EB4C34?style=flat&logo=java&logoColor=white)|[Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)|||
-|[C](https://img.shields.io/badge/LangageC-7AB8FA?style=flat&logo=c&logoColor=white)|[Prettier](https://img.shields.io/badge/Prettier-AF7AFA?style=flat&logo=prettier&logoColor=white)|||
+| ![Java](https://img.shields.io/badge/Java-EB4C34?style=flat&logo=java&logoColor=white)| ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) | | |
+| ![C](https://img.shields.io/badge/LangageC-7AB8FA?style=flat&logo=c&logoColor=white)| ![Prettier](https://img.shields.io/badge/Prettier-AF7AFA?style=flat&logo=prettier&logoColor=white) | | |
 
 
 ## Github 
