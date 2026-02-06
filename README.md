@@ -1,4 +1,4 @@
-## Noémie LIGNIER
+<h1 align="center"> Noémie LIGNIER </h1>
 
 <p align="center">  
     <img src="https://img.shields.io/badge/-Software%20Developer-brightgreen?style=flat-square" />  
@@ -6,7 +6,7 @@
 </p>
 
 ## A propos
-Je m'apelle Noémie et je suis **étudiante** en BUT informatique et **développeuse front end**. Actuellement, je suis apprentie analyste programmeuse chez POLYEDRE, une entreprise de gestion d'ERP. Etant en dernière année de BUT informatique (bac+3) j'ai eu l'opportunité de travailler sur différents types de projets et de découvrir différents langages et frameworks.  
+Je m'apelle Noémie et je suis **étudiante** en BUT informatique et **développeuse front end**. Actuellement, je suis **apprentie analyste programmeuse** chez POLYEDRE, une entreprise de gestion d'ERP. Etant en dernière année de **BUT informatique** (bac+3) j'ai eu l'opportunité de travailler sur différents types de projets et de découvrir différents **langages** et **frameworks**.  
 
 ## Stack technique
 
@@ -20,7 +20,7 @@ Je m'apelle Noémie et je suis **étudiante** en BUT informatique et **développ
 | ![C](https://img.shields.io/badge/LangageC-7AB8FA?style=flat&logo=c&logoColor=white)| ![Prettier](https://img.shields.io/badge/Prettier-AF7AFA?style=flat&logo=prettier&logoColor=white) | | |
 
 
-## Github 
+## Github stats
 <img src="https://raw.githubusercontent.com/nomimie16/github-stats-transparent/output/generated/overview.svg" />
 
 
