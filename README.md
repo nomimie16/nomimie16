@@ -26,9 +26,11 @@ Je m'apelle Noémie et je suis **étudiante** en BUT informatique et **développ
 
 
 ## Contacts
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white) noemlie16
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) 831noemie@gmail.com
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white) Noémie Lignier
 <!--
 **nomimie16/nomimie16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
